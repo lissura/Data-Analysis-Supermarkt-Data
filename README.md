@@ -4,7 +4,7 @@
 _This repository were created after my 3weeks learning basic python and Data analysis, further improvement might be applied further_
 
 ---
-link heroku : https://cindrachatami-ftds-009-p0m1.herokuapp.com/
+link heroku : https://cindra-ftds-009-p0m1.herokuapp.com/
 
 ## Dataset 
 
